@@ -1,3 +1,4 @@
 # bhstf
 
-Added configuration to run terraform with git action and deploy to azure
+Added configuration to run terraform with git action and deploy to azure.
+Test
